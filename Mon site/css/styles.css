@@ -1,0 +1,70 @@
+
+
+
+nav.menu-nav ul li.btn {
+	list-style-type: none;
+	display: inline-block;
+	padding-left: 10px;
+
+}
+
+
+
+
+nav.menu-nav ul li.btn a{
+
+	color: ##AA6BEF;
+	background-color: #000;
+	text-decoration: none;	
+	padding: 15px;
+	font-size: 30px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: #000;
+	background-color: #AA6BEF;
+	transition: 500ms;
+}
+
+
+
+/p.team{
+	color: #AA6BEF;
+}
+
+
+
+body{
+	background: url(https://img.freepik.com/vecteurs-libre/fond-hexagonal-fonce-degrade-couleur_79603-1410.jpg?size=626&ext=jpg);
+
+}
+
+h1.titre{
+	font-size: 150px;
+	font-weight: bold;
+	color: #AA6BEF;
+	padding-left: 800px;
+
+}
+
+
+
+
+h2.titre{
+	color: #AA6BEF;
+	font-size: 70px;
+	padding-left: 600px;
+}
+
+
+header{
+	padding-left:700px;
+}
+
+h1.titre{
+	padding-left: 500px;
+}
+
+div.video{
+	padding-left: 160px;
+}
